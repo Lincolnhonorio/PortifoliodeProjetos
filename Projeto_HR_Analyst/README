@@ -1,0 +1,45 @@
+# Painel de Capital Humano – RH Analytics
+
+## Fontes de Dados
+[Kaggle – HR Analytics Dataset](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance?resource=download&select=DimDate.txt)
+
+
+## Objetivo
+* Identificação de áreas com alta rotatividade  
+* Monitoramento da retenção de talentos  
+* Apoio à tomada de decisão estratégica no RH  
+
+
+## Etapas do Projeto
+1. Inspeção inicial (Power Query)  
+2. Limpeza e transformação (Power Query e SQL)  
+3. Modelagem e medidas no Power BI  
+4. Visualizações e geração de insights  
+
+
+## Principais Métricas
+* Contratações, desligamentos e crescimento líquido por ano e setor  
+* Comparativo de média salarial por departamento  
+* Segmentações por setor, cargo, idade, faixa etária e faixa salarial  
+* KPIs: Retenção de Talentos, Tempo Médio dos Funcionários, Turnover e Funcionários Mais Longevos  
+
+
+## Como Rodar / Reproduzir
+1. Importe o script `Painel_RH.SQL` no MySQL Workbench  
+2. Conecte o Power BI à base de dados via DirectQuery ou importação  
+3. Abra o arquivo `Portifolio.pbix` no Power BI Desktop  
+4. Navegue pelas abas: **Análise** e **KPIs**  
+
+
+## Insights
+* O setor de Tecnologia contrata profissionais mais jovens, enquanto RH e Vendas exigem perfis mais experientes  
+* Cargos de liderança concentram os maiores salários e idades médias mais elevadas  
+* Há correlação entre idade de admissão e salário: mais experiência, maior remuneração  
+* A empresa está em expansão, com crescimento líquido positivo e boa retenção de talentos  
+* Apesar da alta demanda técnica, RH e Vendas têm médias salariais superiores, possivelmente por cargos estratégicos  
+
+
+## Contato
+Desenvolvido por **Lincoln Honorio**  
+Email: lincolnhonorio@hotmail.com  
+LinkedIn: [linkedin.com/in/lincoln-honorio-1aa4a6286](https://www.linkedin.com/in/lincoln-honorio-1aa4a6286)
