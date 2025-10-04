@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Projetos – Lincoln Honorio
+# Portfólio de Projetos – Lincoln Honorio
 
 Bem-vindo ao meu repositório de projetos! Aqui você encontra uma coleção de análises, dashboards e soluções desenvolvidas com foco em dados, visualização estratégica e tomada de decisão.
 
