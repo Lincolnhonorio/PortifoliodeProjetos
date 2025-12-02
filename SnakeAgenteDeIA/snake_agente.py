@@ -28,7 +28,7 @@ with st.sidebar:
     st.title("🐍 SNAKE Agente de IA")
     st.markdown("Um agente de IA focado na linguagem Python para ajudar estudantes.")
     groq_api_key = st.text_input(
-        "Insira sua API Key Groq", 
+        "Insira sua API Key Groc", 
         type="password",
         help="Obtenha sua chave em https://console.groq.com/keys"
     )
